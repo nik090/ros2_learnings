@@ -1,0 +1,270 @@
+[0.000000] (-) TimerEvent: {}
+[0.005709] (py_pkg) JobQueued: {'identifier': 'py_pkg', 'dependencies': OrderedDict()}
+[0.008441] (py_pkg) JobStarted: {'identifier': 'py_pkg'}
+[0.093947] (-) TimerEvent: {}
+[0.196213] (-) TimerEvent: {}
+[0.298204] (-) TimerEvent: {}
+[0.401874] (-) TimerEvent: {}
+[0.505356] (-) TimerEvent: {}
+[0.611596] (-) TimerEvent: {}
+[0.716111] (-) TimerEvent: {}
+[0.820283] (-) TimerEvent: {}
+[0.925874] (-) TimerEvent: {}
+[1.029997] (-) TimerEvent: {}
+[1.138654] (-) TimerEvent: {}
+[1.243299] (-) TimerEvent: {}
+[1.349093] (-) TimerEvent: {}
+[1.463822] (-) TimerEvent: {}
+[1.566903] (-) TimerEvent: {}
+[1.672507] (-) TimerEvent: {}
+[1.775971] (-) TimerEvent: {}
+[1.878295] (-) TimerEvent: {}
+[1.987816] (-) TimerEvent: {}
+[2.100115] (-) TimerEvent: {}
+[2.205902] (-) TimerEvent: {}
+[2.307990] (-) TimerEvent: {}
+[2.411620] (-) TimerEvent: {}
+[2.522831] (-) TimerEvent: {}
+[2.629912] (-) TimerEvent: {}
+[2.735867] (-) TimerEvent: {}
+[2.838938] (-) TimerEvent: {}
+[2.942453] (-) TimerEvent: {}
+[3.046117] (-) TimerEvent: {}
+[3.148944] (-) TimerEvent: {}
+[3.251667] (-) TimerEvent: {}
+[3.354132] (-) TimerEvent: {}
+[3.456220] (-) TimerEvent: {}
+[3.558508] (-) TimerEvent: {}
+[3.661108] (-) TimerEvent: {}
+[3.763463] (-) TimerEvent: {}
+[3.866769] (-) TimerEvent: {}
+[3.970082] (-) TimerEvent: {}
+[4.072866] (-) TimerEvent: {}
+[4.178170] (-) TimerEvent: {}
+[4.282259] (-) TimerEvent: {}
+[4.444816] (-) TimerEvent: {}
+[4.578557] (-) TimerEvent: {}
+[4.695831] (-) TimerEvent: {}
+[4.802457] (-) TimerEvent: {}
+[4.904901] (-) TimerEvent: {}
+[5.007908] (-) TimerEvent: {}
+[5.117883] (-) TimerEvent: {}
+[5.228614] (-) TimerEvent: {}
+[5.332709] (-) TimerEvent: {}
+[5.437076] (-) TimerEvent: {}
+[5.545243] (-) TimerEvent: {}
+[5.649826] (-) TimerEvent: {}
+[5.754234] (-) TimerEvent: {}
+[5.860031] (-) TimerEvent: {}
+[5.981941] (-) TimerEvent: {}
+[6.102509] (-) TimerEvent: {}
+[6.204442] (-) TimerEvent: {}
+[6.307271] (-) TimerEvent: {}
+[6.412476] (-) TimerEvent: {}
+[6.515224] (-) TimerEvent: {}
+[6.617684] (-) TimerEvent: {}
+[6.723807] (-) TimerEvent: {}
+[6.833187] (-) TimerEvent: {}
+[6.946099] (-) TimerEvent: {}
+[7.050980] (-) TimerEvent: {}
+[8.364266] (-) TimerEvent: {}
+[8.466560] (-) TimerEvent: {}
+[8.728754] (-) TimerEvent: {}
+[8.831080] (-) TimerEvent: {}
+[8.933417] (-) TimerEvent: {}
+[9.036822] (-) TimerEvent: {}
+[9.139740] (-) TimerEvent: {}
+[9.247423] (-) TimerEvent: {}
+[9.350026] (-) TimerEvent: {}
+[9.452133] (-) TimerEvent: {}
+[9.554596] (-) TimerEvent: {}
+[9.660366] (-) TimerEvent: {}
+[9.762548] (-) TimerEvent: {}
+[9.864923] (-) TimerEvent: {}
+[9.967823] (-) TimerEvent: {}
+[10.071656] (-) TimerEvent: {}
+[10.176223] (-) TimerEvent: {}
+[10.280284] (-) TimerEvent: {}
+[10.384935] (-) TimerEvent: {}
+[10.487042] (-) TimerEvent: {}
+[10.589260] (-) TimerEvent: {}
+[10.692324] (-) TimerEvent: {}
+[10.802618] (-) TimerEvent: {}
+[10.905076] (-) TimerEvent: {}
+[11.012795] (-) TimerEvent: {}
+[11.115908] (-) TimerEvent: {}
+[11.225933] (-) TimerEvent: {}
+[11.337420] (-) TimerEvent: {}
+[11.441463] (-) TimerEvent: {}
+[11.546147] (-) TimerEvent: {}
+[11.650913] (-) TimerEvent: {}
+[11.762117] (-) TimerEvent: {}
+[11.873891] (-) TimerEvent: {}
+[11.979093] (-) TimerEvent: {}
+[12.086665] (-) TimerEvent: {}
+[12.195240] (-) TimerEvent: {}
+[12.300119] (-) TimerEvent: {}
+[12.404107] (-) TimerEvent: {}
+[12.511895] (-) TimerEvent: {}
+[12.615616] (-) TimerEvent: {}
+[12.718576] (-) TimerEvent: {}
+[12.827174] (-) TimerEvent: {}
+[12.929427] (-) TimerEvent: {}
+[13.032085] (-) TimerEvent: {}
+[13.134150] (-) TimerEvent: {}
+[13.237040] (-) TimerEvent: {}
+[13.339426] (-) TimerEvent: {}
+[13.451600] (-) TimerEvent: {}
+[13.553892] (-) TimerEvent: {}
+[13.658237] (-) TimerEvent: {}
+[13.762753] (-) TimerEvent: {}
+[13.867396] (-) TimerEvent: {}
+[13.971388] (-) TimerEvent: {}
+[14.078345] (-) TimerEvent: {}
+[14.180387] (-) TimerEvent: {}
+[14.283215] (-) TimerEvent: {}
+[14.388715] (-) TimerEvent: {}
+[14.492464] (-) TimerEvent: {}
+[14.594790] (-) TimerEvent: {}
+[14.697229] (-) TimerEvent: {}
+[14.800318] (-) TimerEvent: {}
+[14.903856] (-) TimerEvent: {}
+[15.009868] (-) TimerEvent: {}
+[15.103574] (py_pkg) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/py_pkg', 'build', '--build-base', '/mnt/d/ROS2/build/py_pkg/build', 'install', '--record', '/mnt/d/ROS2/build/py_pkg/install.log', '--install-scripts', '$base/lib/py_pkg', '--single-version-externally-managed', 'install_data'], 'cwd': '/mnt/d/ROS2/src/py_pkg', 'env': OrderedDict({'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'nik', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/lyrical/opt/gz_math_vendor/lib:/opt/ros/lyrical/opt/gz_utils_vendor/lib:/opt/ros/lyrical/opt/rviz_ogre_vendor/lib:/opt/ros/lyrical/lib/x86_64-linux-gnu:/opt/ros/lyrical/opt/gz_cmake_vendor/lib:/opt/ros/lyrical/lib', 'WT_PROFILE_ID': '{61c54bbd-c2c6-5271-96e7-009a87ff44bf}', 'HOME': '/home/nik', 'OLDPWD': '/mnt/d/ROS2/src', 'IM_CONFIG_ENTRY': 'profile', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'DEBUGINFOD_URLS': 'https://debuginfod.ubuntu.com', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/mnt/d/ROS2/install', 'ROS_DISTRO': 'lyrical', 'LOGNAME': 'nik', 'NAME': 'Phoenix-I', 'WSL_INTEROP': '/run/WSL/3470_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'PATH': '/opt/ros/lyrical/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Python314/Scripts/:/mnt/c/Python314/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/d/Apps/CMake/bin:/mnt/d/Apps/MinGW/bin:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Users/nik/AppData/Local/Microsoft/WindowsApps:/mnt/d/Apps/Microsoft_VS_Code/bin:/mnt/c/Users/nik/AppData/Roaming/npm:/snap/bin', 'WT_SESSION': '7aad7561-4cac-4502-9f04-abe53b882dc5', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:', 'AMENT_PREFIX_PATH': '/opt/ros/lyrical', 'SHELL': '/bin/bash', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'PWD': '/mnt/d/ROS2/build/py_pkg', 'XDG_DATA_DIRS': '/usr/share/gnome:/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/mnt/d/ROS2/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages:/opt/ros/lyrical/opt/gz_math_vendor/lib/python:/opt/ros/lyrical/lib/python3.14/site-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/opt/ros/lyrical/opt/gz_math_vendor:/opt/ros/lyrical/opt/gz_utils_vendor:/opt/ros/lyrical/opt/gz_cmake_vendor', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}), 'shell': False}
+[15.143273] (-) TimerEvent: {}
+[15.245248] (-) TimerEvent: {}
+[15.347699] (-) TimerEvent: {}
+[15.452684] (-) TimerEvent: {}
+[15.555743] (-) TimerEvent: {}
+[15.658621] (-) TimerEvent: {}
+[15.761002] (-) TimerEvent: {}
+[15.863438] (-) TimerEvent: {}
+[15.965678] (-) TimerEvent: {}
+[16.067853] (-) TimerEvent: {}
+[16.170246] (-) TimerEvent: {}
+[16.272967] (-) TimerEvent: {}
+[16.376497] (-) TimerEvent: {}
+[16.478599] (-) TimerEvent: {}
+[16.580802] (-) TimerEvent: {}
+[16.683240] (-) TimerEvent: {}
+[16.800959] (-) TimerEvent: {}
+[16.917968] (-) TimerEvent: {}
+[17.072775] (-) TimerEvent: {}
+[17.176213] (-) TimerEvent: {}
+[17.279235] (-) TimerEvent: {}
+[17.382557] (-) TimerEvent: {}
+[17.488419] (-) TimerEvent: {}
+[17.590787] (-) TimerEvent: {}
+[17.695465] (-) TimerEvent: {}
+[17.799095] (-) TimerEvent: {}
+[17.906413] (-) TimerEvent: {}
+[18.016237] (-) TimerEvent: {}
+[18.121262] (-) TimerEvent: {}
+[18.226228] (-) TimerEvent: {}
+[18.329539] (-) TimerEvent: {}
+[18.432331] (-) TimerEvent: {}
+[18.535655] (-) TimerEvent: {}
+[18.638721] (-) TimerEvent: {}
+[18.741643] (-) TimerEvent: {}
+[18.846743] (-) TimerEvent: {}
+[18.950389] (-) TimerEvent: {}
+[19.055123] (-) TimerEvent: {}
+[19.158145] (-) TimerEvent: {}
+[19.265390] (-) TimerEvent: {}
+[19.367724] (-) TimerEvent: {}
+[19.440135] (py_pkg) StdoutLine: {'line': b'running egg_info\n'}
+[19.467907] (-) TimerEvent: {}
+[19.571198] (-) TimerEvent: {}
+[19.603421] (py_pkg) StdoutLine: {'line': b'creating ../../build/py_pkg/py_pkg.egg-info\n'}
+[19.620316] (py_pkg) StdoutLine: {'line': b'writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO\n'}
+[19.671404] (-) TimerEvent: {}
+[19.701503] (py_pkg) StdoutLine: {'line': b'writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt\n'}
+[19.739434] (py_pkg) StdoutLine: {'line': b'writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt\n'}
+[19.758430] (py_pkg) StdoutLine: {'line': b'writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt\n'}
+[19.778677] (-) TimerEvent: {}
+[19.800094] (py_pkg) StdoutLine: {'line': b"writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'\n"}
+[19.879019] (-) TimerEvent: {}
+[19.981234] (-) TimerEvent: {}
+[20.087265] (-) TimerEvent: {}
+[20.195690] (-) TimerEvent: {}
+[20.294095] (py_pkg) StdoutLine: {'line': b"reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'\n"}
+[20.307216] (-) TimerEvent: {}
+[20.411202] (-) TimerEvent: {}
+[20.482920] (py_pkg) StdoutLine: {'line': b"writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'\n"}
+[20.496194] (py_pkg) StdoutLine: {'line': b'running build\n'}
+[20.511462] (-) TimerEvent: {}
+[20.514021] (py_pkg) StdoutLine: {'line': b'running build_py\n'}
+[20.526875] (py_pkg) StdoutLine: {'line': b'creating /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg\n'}
+[20.586026] (py_pkg) StdoutLine: {'line': b'copying py_pkg/__init__.py -> /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg\n'}
+[20.611688] (-) TimerEvent: {}
+[20.686447] (py_pkg) StdoutLine: {'line': b'copying py_pkg/py.typed -> /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg\n'}
+[20.711973] (-) TimerEvent: {}
+[20.814385] (-) TimerEvent: {}
+[20.837964] (py_pkg) StdoutLine: {'line': b'running install\n'}
+[20.870023] (py_pkg) StdoutLine: {'line': b'running install_lib\n'}
+[20.915554] (-) TimerEvent: {}
+[21.017875] (-) TimerEvent: {}
+[21.090819] (py_pkg) StdoutLine: {'line': b'creating /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg\n'}
+[21.118212] (-) TimerEvent: {}
+[21.153838] (py_pkg) StdoutLine: {'line': b'copying /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg/py.typed -> /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg\n'}
+[21.218802] (-) TimerEvent: {}
+[21.297157] (py_pkg) StdoutLine: {'line': b'copying /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg/__init__.py -> /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg\n'}
+[21.319017] (-) TimerEvent: {}
+[21.422560] (-) TimerEvent: {}
+[21.449614] (py_pkg) StdoutLine: {'line': b'byte-compiling /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg/__init__.py to __init__.cpython-314.pyc\n'}
+[21.522762] (-) TimerEvent: {}
+[21.586296] (py_pkg) StdoutLine: {'line': b'running install_data\n'}
+[21.619757] (py_pkg) StdoutLine: {'line': b'creating /mnt/d/ROS2/install/py_pkg/share/ament_index/resource_index/packages\n'}
+[21.628630] (-) TimerEvent: {}
+[21.692830] (py_pkg) StdoutLine: {'line': b'copying resource/py_pkg -> /mnt/d/ROS2/install/py_pkg/share/ament_index/resource_index/packages\n'}
+[21.728848] (-) TimerEvent: {}
+[21.835758] (-) TimerEvent: {}
+[21.858331] (py_pkg) StdoutLine: {'line': b'copying package.xml -> /mnt/d/ROS2/install/py_pkg/share/py_pkg\n'}
+[21.937852] (-) TimerEvent: {}
+[21.973918] (py_pkg) StdoutLine: {'line': b'running install_egg_info\n'}
+[22.045921] (-) TimerEvent: {}
+[22.150646] (-) TimerEvent: {}
+[22.258280] (-) TimerEvent: {}
+[22.261803] (py_pkg) StdoutLine: {'line': b'Copying ../../build/py_pkg/py_pkg.egg-info to /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg-0.0.0-py3.14.egg-info\n'}
+[22.358479] (-) TimerEvent: {}
+[22.460595] (-) TimerEvent: {}
+[22.563303] (-) TimerEvent: {}
+[22.666384] (-) TimerEvent: {}
+[22.769432] (-) TimerEvent: {}
+[22.873925] (-) TimerEvent: {}
+[22.977230] (-) TimerEvent: {}
+[23.080049] (-) TimerEvent: {}
+[23.112741] (py_pkg) StdoutLine: {'line': b'running install_scripts\n'}
+[23.180229] (-) TimerEvent: {}
+[23.282341] (-) TimerEvent: {}
+[23.384103] (-) TimerEvent: {}
+[23.486585] (-) TimerEvent: {}
+[23.593961] (-) TimerEvent: {}
+[23.697037] (-) TimerEvent: {}
+[23.801912] (-) TimerEvent: {}
+[23.906504] (-) TimerEvent: {}
+[24.011452] (-) TimerEvent: {}
+[24.117848] (-) TimerEvent: {}
+[24.219995] (-) TimerEvent: {}
+[24.323122] (-) TimerEvent: {}
+[24.397015] (py_pkg) StdoutLine: {'line': b"writing list of installed files to '/mnt/d/ROS2/build/py_pkg/install.log'\n"}
+[24.425664] (-) TimerEvent: {}
+[24.534045] (-) TimerEvent: {}
+[24.599099] (py_pkg) CommandEnded: {'returncode': 0}
+[24.634264] (-) TimerEvent: {}
+[24.738735] (-) TimerEvent: {}
+[24.848859] (-) TimerEvent: {}
+[24.951153] (-) TimerEvent: {}
+[25.055324] (-) TimerEvent: {}
+[25.158648] (-) TimerEvent: {}
+[25.261680] (-) TimerEvent: {}
+[25.370477] (-) TimerEvent: {}
+[25.474292] (-) TimerEvent: {}
+[25.582789] (-) TimerEvent: {}
+[25.686301] (-) TimerEvent: {}
+[25.788936] (-) TimerEvent: {}
+[25.893150] (-) TimerEvent: {}
+[25.996102] (-) TimerEvent: {}
+[26.099968] (-) TimerEvent: {}
+[26.107032] (py_pkg) JobEnded: {'identifier': 'py_pkg', 'rc': 0}
+[26.159033] (-) EventReactorShutdown: {}

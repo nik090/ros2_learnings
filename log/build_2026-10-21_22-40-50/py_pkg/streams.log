@@ -1,0 +1,30 @@
+[15.126s] Invoking command in '/mnt/d/ROS2/src/py_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/mnt/d/ROS2/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /mnt/d/ROS2/build/py_pkg/build install --record /mnt/d/ROS2/build/py_pkg/install.log --install-scripts $base/lib/py_pkg --single-version-externally-managed install_data
+[19.433s] running egg_info
+[19.596s] creating ../../build/py_pkg/py_pkg.egg-info
+[19.614s] writing ../../build/py_pkg/py_pkg.egg-info/PKG-INFO
+[19.696s] writing dependency_links to ../../build/py_pkg/py_pkg.egg-info/dependency_links.txt
+[19.737s] writing requirements to ../../build/py_pkg/py_pkg.egg-info/requires.txt
+[19.760s] writing top-level names to ../../build/py_pkg/py_pkg.egg-info/top_level.txt
+[19.796s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[20.293s] reading manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[20.477s] writing manifest file '../../build/py_pkg/py_pkg.egg-info/SOURCES.txt'
+[20.496s] running build
+[20.511s] running build_py
+[20.520s] creating /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg
+[20.579s] copying py_pkg/__init__.py -> /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg
+[20.685s] copying py_pkg/py.typed -> /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg
+[20.832s] running install
+[20.863s] running install_lib
+[21.086s] creating /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg
+[21.150s] copying /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg/py.typed -> /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg
+[21.293s] copying /mnt/d/ROS2/build/py_pkg/build/lib/py_pkg/__init__.py -> /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg
+[21.442s] byte-compiling /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg/__init__.py to __init__.cpython-314.pyc
+[21.589s] running install_data
+[21.615s] creating /mnt/d/ROS2/install/py_pkg/share/ament_index/resource_index/packages
+[21.687s] copying resource/py_pkg -> /mnt/d/ROS2/install/py_pkg/share/ament_index/resource_index/packages
+[21.870s] copying package.xml -> /mnt/d/ROS2/install/py_pkg/share/py_pkg
+[21.975s] running install_egg_info
+[22.258s] Copying ../../build/py_pkg/py_pkg.egg-info to /mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages/py_pkg-0.0.0-py3.14.egg-info
+[23.107s] running install_scripts
+[24.396s] writing list of installed files to '/mnt/d/ROS2/build/py_pkg/install.log'
+[24.594s] Invoked command in '/mnt/d/ROS2/src/py_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/mnt/d/ROS2/build/py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_pkg build --build-base /mnt/d/ROS2/build/py_pkg/build install --record /mnt/d/ROS2/build/py_pkg/install.log --install-scripts $base/lib/py_pkg --single-version-externally-managed install_data
