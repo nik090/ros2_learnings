@@ -1,0 +1,13 @@
+{
+    "ROS2.distro": "lyrical",
+    "python.autoComplete.extraPaths": [
+        "/mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages",
+        "/opt/ros/lyrical/opt/gz_math_vendor/lib/python",
+        "/opt/ros/lyrical/lib/python3.14/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/mnt/d/ROS2/install/py_pkg/lib/python3.14/site-packages",
+        "/opt/ros/lyrical/opt/gz_math_vendor/lib/python",
+        "/opt/ros/lyrical/lib/python3.14/site-packages"
+    ]
+}
