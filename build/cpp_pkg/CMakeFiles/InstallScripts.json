@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/ROS2/build/cpp_pkg/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,50 @@
+[0.418s] Invoking command in '/mnt/d/ROS2/build/cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /mnt/d/ROS2/src/cpp_pkg -DCMAKE_INSTALL_PREFIX=/mnt/d/ROS2/install/cpp_pkg
+[2.414s] -- The C compiler identification is GNU 15.2.0
+[5.411s] -- The CXX compiler identification is GNU 15.2.0
+[6.073s] -- Detecting C compiler ABI info
+[6.874s] -- Detecting C compiler ABI info - done
+[7.006s] -- Check for working C compiler: /usr/bin/cc - skipped
+[7.008s] -- Detecting C compile features
+[7.018s] -- Detecting C compile features - done
+[7.118s] -- Detecting CXX compiler ABI info
+[7.934s] -- Detecting CXX compiler ABI info - done
+[8.051s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[8.053s] -- Detecting CXX compile features
+[8.056s] -- Detecting CXX compile features - done
+[8.466s] -- Found ament_cmake: 2.8.8 (/opt/ros/lyrical/share/ament_cmake/cmake)
+[23.705s] -- Found rclcpp: 32.0.3 (/opt/ros/lyrical/share/rclcpp/cmake)
+[26.085s] -- Found rosidl_generator_c: 5.2.1 (/opt/ros/lyrical/share/rosidl_generator_c/cmake)
+[26.746s] -- Found rosidl_generator_cpp: 5.2.1 (/opt/ros/lyrical/share/rosidl_generator_cpp/cmake)
+[27.925s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[28.666s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[31.660s] -- Found rmw_implementation_cmake: 7.10.2 (/opt/ros/lyrical/share/rmw_implementation_cmake/cmake)
+[31.858s] -- Found rmw_fastrtps_cpp: 9.4.10 (/opt/ros/lyrical/share/rmw_fastrtps_cpp/cmake)
+[33.761s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[36.943s] -- Found ament_lint_auto: 0.20.6 (/opt/ros/lyrical/share/ament_lint_auto/cmake)
+[39.280s] -- Added test 'lint_cmake' to check CMake code style
+[39.637s] -- Added test 'xmllint' to check XML markup files
+[39.931s] -- Configuring done (39.0s)
+[40.473s] -- Generating done (0.5s)
+[43.409s] -- Build files have been written to: /mnt/d/ROS2/build/cpp_pkg
+[43.420s] Invoked command in '/mnt/d/ROS2/build/cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /mnt/d/ROS2/src/cpp_pkg -DCMAKE_INSTALL_PREFIX=/mnt/d/ROS2/install/cpp_pkg
+[43.433s] Invoking command in '/mnt/d/ROS2/build/cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /mnt/d/ROS2/build/cpp_pkg -- -j2 -l2
+[43.578s] Invoked command in '/mnt/d/ROS2/build/cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /mnt/d/ROS2/build/cpp_pkg -- -j2 -l2
+[43.613s] Invoking command in '/mnt/d/ROS2/build/cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /mnt/d/ROS2/build/cpp_pkg
+[43.638s] -- Install configuration: ""
+[43.672s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_pkg
+[43.788s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_pkg
+[43.890s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/ament_prefix_path.sh
+[43.949s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/ament_prefix_path.dsv
+[44.010s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/path.sh
+[44.071s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/path.dsv
+[44.133s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.bash
+[44.194s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.fish
+[44.252s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.sh
+[44.308s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.zsh
+[44.363s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.dsv
+[44.420s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/package.dsv
+[44.501s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/packages/cpp_pkg
+[44.593s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/cmake/cpp_pkgConfig.cmake
+[44.655s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/cmake/cpp_pkgConfig-version.cmake
+[44.719s] -- Installing: /mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/package.xml
+[44.789s] Invoked command in '/mnt/d/ROS2/build/cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/mnt/d/ROS2/install/py_pkg:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /mnt/d/ROS2/build/cpp_pkg

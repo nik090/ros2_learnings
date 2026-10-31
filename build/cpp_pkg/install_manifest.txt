@@ -1,0 +1,16 @@
+/mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/package_run_dependencies/cpp_pkg
+/mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/parent_prefix_path/cpp_pkg
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/ament_prefix_path.sh
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/ament_prefix_path.dsv
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/path.sh
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/environment/path.dsv
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.bash
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.fish
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.sh
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.zsh
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/local_setup.dsv
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/package.dsv
+/mnt/d/ROS2/install/cpp_pkg/share/ament_index/resource_index/packages/cpp_pkg
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/cmake/cpp_pkgConfig.cmake
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/cmake/cpp_pkgConfig-version.cmake
+/mnt/d/ROS2/install/cpp_pkg/share/cpp_pkg/package.xml
